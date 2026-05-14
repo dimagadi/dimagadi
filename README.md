@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dimagadi
 - 👀 I’m interested in Integration, APIs, Cloud Modernization, coffee, wine
-- 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on development in GCP 
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on development 
 - 📫 How to reach me dimagadi@gmail.com
 
 <!---
